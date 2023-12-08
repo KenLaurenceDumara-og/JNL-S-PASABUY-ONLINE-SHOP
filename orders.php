@@ -31,7 +31,7 @@ if(isset($_SESSION['user_id'])){
 <style> body {
          background-image: url('./images/redimage.jpeg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
          background-size: cover; /* This ensures that the background image covers the entire body */
-         background-repeat: no-repeat; 
+         background-repeat: repeat; 
          height: 100vh;
          background-position: center;
         
