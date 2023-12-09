@@ -27,6 +27,7 @@ SR-Code	Members	Grade	Designition
 
 
 descriptions of the project:
+
 	JNL’s Pasabuy Is an online ordering platform that is designed to enhance the shopping experience. This system leverages advanced technology to connect buyers with a diverse range of products, enabling them to conveniently make purchases from the comfort of their homes.
 
 JNL’s Pasabuy Features:
